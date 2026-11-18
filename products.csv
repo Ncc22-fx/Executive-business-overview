@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P001,Electronics Item 1,Electronics,599.65,448.47
+P002,Electronics Item 2,Electronics,517.13,318.1
+P003,Electronics Item 3,Electronics,95.26,61.96
+P004,Electronics Item 4,Electronics,250.47,147.99
+P005,Electronics Item 5,Electronics,237.81,133.84
+P006,Electronics Item 6,Electronics,202.17,153.17
+P007,Electronics Item 7,Electronics,430.09,329.23
+P008,Electronics Item 8,Electronics,47.4,36.57
+P009,Electronics Item 9,Electronics,503.97,300.74
+P010,Electronics Item 10,Electronics,258.63,193.02
+P011,Furniture Item 1,Furniture,39.58,28.86
+P012,Furniture Item 2,Furniture,523.76,336.13
+P013,Furniture Item 3,Furniture,474.75,256.16
+P014,Furniture Item 4,Furniture,585.09,418.97
+P015,Furniture Item 5,Furniture,549.5,317.97
+P016,Furniture Item 6,Furniture,456.02,317.32
+P017,Furniture Item 7,Furniture,505.55,351.53
+P018,Furniture Item 8,Furniture,545.16,339.81
+P019,Furniture Item 9,Furniture,473.29,350.18
+P020,Furniture Item 10,Furniture,165.02,109.72
+P021,Clothing Item 1,Clothing,488.09,265.27
+P022,Clothing Item 2,Clothing,158.74,98.83
+P023,Clothing Item 3,Clothing,142.42,83.85
+P024,Clothing Item 4,Clothing,176.6,97.51
+P025,Clothing Item 5,Clothing,461.9,284.45
+P026,Clothing Item 6,Clothing,468.62,334.94
+P027,Clothing Item 7,Clothing,419.68,246.84
+P028,Clothing Item 8,Clothing,112.28,69.51
+P029,Clothing Item 9,Clothing,89.9,61.67
+P030,Clothing Item 10,Clothing,389.51,240.17
+P031,Home & Living Item 1,Home & Living,57.27,39.83
+P032,Home & Living Item 2,Home & Living,480.56,308.8
+P033,Home & Living Item 3,Home & Living,53.85,36.68
+P034,Home & Living Item 4,Home & Living,241.15,184.53
+P035,Home & Living Item 5,Home & Living,109.25,66.13
+P036,Home & Living Item 6,Home & Living,548.94,372.52
+P037,Home & Living Item 7,Home & Living,219.6,151.17
+P038,Home & Living Item 8,Home & Living,269.76,184.84
+P039,Home & Living Item 9,Home & Living,148.45,95.11
+P040,Home & Living Item 10,Home & Living,479.38,336.66
